@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "@unocss",
+    "@nuxt"
+  ],
+  "rules": {
+    "@unocss/order": 1,
+    "vue/html-self-closing": 0
+  }
+}
